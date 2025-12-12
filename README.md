@@ -15,8 +15,8 @@ This repo includes:
      packages, and saving a script. 
 
 3. Well-commented R scripts, along with small example .csv datasets, demonstrating:
-   * basic functions
-   * descriptive statistics
-   * correlations
-   * t-tests (coming soon)
-   * data transformations (coming soon)
+   * [Basic Functions](https://github.com/viviantajohnson/rpractice/tree/5840d8ed3154faa03a7f6c062b31c91270a68cb3/Basic%20Functions)  
+   * [Descriptive Statistics](https://github.com/viviantajohnson/rpractice/tree/5840d8ed3154faa03a7f6c062b31c91270a68cb3/Descriptive%20Statistics)  
+   * [Correlations](https://github.com/viviantajohnson/rpractice/tree/5840d8ed3154faa03a7f6c062b31c91270a68cb3/Correlations)  
+   * t-Tests (coming soon)  
+   * Data Transformations (coming soon)  
