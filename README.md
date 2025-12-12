@@ -1,7 +1,7 @@
 # The LSD Lab Guide to R
 
 ## Welcome to the Language & Social Dynamics (LSD) Lab R Guide!  
-This repository provides everything a new R user needs to get up and running, including installing the software,learning the RStudio interface, and basic analyses including descriptive statistics and correlations. T-tests and simple data transformations will be added soon.
+This repository provides everything a new R user needs to get up and running, including installing the software, learning the RStudio interface, and basic analyses including basic functions, descriptive statistics, and correlations. T-tests, simple data transformations, and others will be added soon.
 
 ### What’s in This Repository?
 This repo includes:   
