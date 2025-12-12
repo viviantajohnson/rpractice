@@ -9,7 +9,7 @@ This repo includes:
    
    Step-by-step instructions for downloading Base R and RStudio.
    
-3. [The LSD Lab Guide To: Navigating RStudio](https://github.com/viviantajohnson/rpractice/blob/9c2a40a766a831462767491fb26e3badb83bd88c/Navigating%20RStudio.pdf)  
+2. [The LSD Lab Guide To: Navigating RStudio](https://github.com/viviantajohnson/rpractice/blob/9c2a40a766a831462767491fb26e3badb83bd88c/Navigating%20RStudio.pdf)  
 
      A walkthrough of the RStudio panels, opening a new script, running code, setting a working directory, loading data, installing and loading
      packages, and saving a script. 
@@ -19,4 +19,6 @@ This repo includes:
    * [Descriptive Statistics](https://github.com/viviantajohnson/rpractice/tree/5840d8ed3154faa03a7f6c062b31c91270a68cb3/Descriptive%20Statistics)  
    * [Correlations](https://github.com/viviantajohnson/rpractice/tree/5840d8ed3154faa03a7f6c062b31c91270a68cb3/Correlations)  
    * t-Tests (coming soon)  
-   * Data Transformations (coming soon)  
+   * Data Transformations (coming soon)
+
+### It is recommended that you go in the above order.
